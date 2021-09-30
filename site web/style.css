@@ -1,0 +1,38 @@
+.bulle
+{
+	text-align: center;
+	border: 4px #9B59B6	ridge;
+	border-radius: 5px 20px 5px 20px;
+	box-shadow: 6px 6px 0px gray;
+	background-color: #AED6F1;
+}
+
+.title
+{
+	text-align: center;
+	text-decoration: underline;
+}
+	
+.imageflottante
+{
+    float: left;
+}
+
+.monkey
+{
+	text-align: right;
+
+}
+
+.dessous
+{
+    clear: both;
+}
+
+
+
+body
+{
+	background-image: url("images/background.jpg");
+	font-family: Cambria, Arial, serif;
+}
